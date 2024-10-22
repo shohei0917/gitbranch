@@ -1,4 +1,10 @@
 Hello world!
 mainブランチでhoge.txtに追記
+<<<<<<< HEAD
 # hogera 
 ほげら
+=======
+#hogehoge
+ほげほげ
+>>>>>>> feature
+しばし編集
